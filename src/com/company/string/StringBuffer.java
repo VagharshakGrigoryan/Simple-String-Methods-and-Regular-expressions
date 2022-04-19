@@ -1,4 +1,4 @@
-package com.company;
+package com.company.string;
 
 public class StringBuffer {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package com.company;
+package com.company.string;
 
-public class Main {
+public class SimpleStringBuilder {
 
     public static void main(String[] args) {
 

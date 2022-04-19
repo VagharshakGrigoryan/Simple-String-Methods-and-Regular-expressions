@@ -1,8 +1,8 @@
-package com.company;
+package com.company.string;
 
 import javax.swing.*;
 
-public class JPoint {
+public class JOption {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,"hello");
     }
